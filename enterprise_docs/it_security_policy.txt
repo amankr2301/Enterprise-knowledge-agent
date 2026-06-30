@@ -1,4 +1,4 @@
 SOP-IT-202: Data Protection and Asset Security
 1. Device Possession: All company-issued laptops must remain in the physical custody of the employee at all times.
-2. Network Encryption: When connecting to internet networks in public spaces (e.g., coffee shops, airport Wi-Fi), employees are strictly required to activate the corporate Always-On VPN before accessing any internal company portals.
+2. Network Encryption: When connecting to internet networks in public spaces, employees are strictly required to activate the corporate Always-On VPN before accessing any internal company portals.
 3. Hardware Export: Exporting corporate hardware outside the home country of employment for any reason requires explicit written authorization from the IT Security Team at least 7 days in advance.
