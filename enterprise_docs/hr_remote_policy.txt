@@ -1,0 +1,4 @@
+POLICY-HR-101: Remote Work Regulations
+1. Standard Remote Work: Full-time employees are permitted to work remotely up to 3 days per week.
+2. Public Locations: Working from public spaces (cafes, libraries, hotels) is allowed, provided security protocols are followed.
+3. International Travel: Working remotely from an international country is strictly regulated. Employees must submit a formal request to HR at least 14 days prior to departure and obtain written approval from their department head.
