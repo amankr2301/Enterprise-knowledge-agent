@@ -3,7 +3,7 @@ import streamlit as st
 import requests
 from dotenv import load_dotenv
 
-# Load environment variables from your .env file
+
 load_dotenv()
 
 st.set_page_config(page_title="Enterprise Compliance System", layout="wide")
